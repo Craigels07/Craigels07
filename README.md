@@ -20,7 +20,18 @@ Currently, I'm working on:
 
 ---
 
-## 📦 Featured Projects
+## 🚀 Featured Project
+
+### [🤖 fastapi-project](https://github.com/Craigels07/fastapi-project)  
+> Building the backend for an AI-powered assistant that integrates WhatsApp, WooCommerce, and Retrieval-Augmented Generation (RAG).
+
+🔧 **Tech Stack**: FastAPI · LangChain · OpenAI · PGVector · PostgreSQL  
+💡 **Use Case**: Helps automate customer service and call center tasks like transcription, summarization, and sentiment analysis  
+📦 **Highlights**:
+- Modular FastAPI endpoints
+- Embedding storage and retrieval using PGVector
+- Integrated with real-world platforms (WhatsApp, WooCommerce)
+- RAG pipeline powered by LangChain + OpenAI
 
 ### 🛍️ Takealot Seller Management System  
 Building a distributed offer processing system for Takealot sellers using public and private APIs.  
@@ -28,17 +39,11 @@ Building a distributed offer processing system for Takealot sellers using public
 - Entity-based concurrency with horizontal scaling  
 - Built for high-throughput, near real-time updates
 
-### 🤖 AI Assistant for Customer Ops (RAG + WhatsApp + WooCommerce)  
-Developing an AI agent to support call center workflows and customer interactions over WhatsApp and web.  
-- Uses OpenAI + LangChain + PGVector for RAG (retrieval-augmented generation)  
-- FastAPI backend integrated with WhatsApp, WooCommerce, and custom business logic  
-- Supports summarization, sentiment, transcription, and context-aware responses
-
 > My goal is to automate backend processes with AI and build a robust, scaled infrastructure.
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Public Repo Stats:
 
 ![Craig's GitHub stats](https://github-readme-stats.vercel.app/api?username=Craigels07&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Craigels07&layout=compact&theme=radical)
@@ -47,8 +52,8 @@ Developing an AI agent to support call center workflows and customer interaction
 
 ## 🤝 Connect with Me
 
-- 🌐 [LinkedIn](www.linkedin.com/in/craig-hanenberg-5ab977225)
-- ✉️ craig@hanenberg.co.za  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/craig-hanenberg-5ab977225)
+- ✉️ craighanenberg@gmail.co.za  
 - 🧩 Ask me about: backend architectures, distributed systems, API scaling, or LLM integration
 
 ---
